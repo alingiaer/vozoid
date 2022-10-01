@@ -1097,7 +1097,7 @@ end
 
 local themes = {
     Default = {
-        ["Accent"] = Color3.fromRGB(255, 255, 40),
+        ["Accent"] = Color3.fromRGB(200, 200, 40),
         ["Window Background"] = Color3.fromRGB(55, 55, 55),
         ["Window Border"] = Color3.fromRGB(45, 45, 45),
         ["Tab Background"] = Color3.fromRGB(20, 20, 20),
